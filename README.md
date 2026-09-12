@@ -16,7 +16,7 @@
 
 Senior Data Scientist with **3+ years** of end-to-end experience designing and deploying ML, NLP, and Generative AI systems across **cybersecurity, finance, and HR** domains.
 
-- 🏢 Currently **Senior Data Scientist @ Quick Heal Technologies** — threat detection, malware classification, RAG systems
+- 🏢 Currently **Data Scientist @ Quick Heal Technologies** — threat detection, malware classification, RAG systems
 - 🤖 Deep expertise in **Agentic AI** — LangGraph multi-agent pipelines, ReAct tool-use, MCP function-calling
 - 🚀 Delivered **20+ production models** serving **50K+ daily requests** with 99.9% uptime
 - 📉 Cut manual workload by **40%** and lifted prediction accuracy by **12%** across client deployments
